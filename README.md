@@ -27,6 +27,7 @@ your_project_name/
 <img width="1433" height="751" alt="image" src="https://github.com/user-attachments/assets/507bb7aa-8352-47b0-ac43-2db011110b9c" />
 <img width="1878" height="653" alt="image" src="https://github.com/user-attachments/assets/aa6dd69c-c777-4132-9347-cdb3b2cec80e" />
 <img width="959" height="238" alt="image" src="https://github.com/user-attachments/assets/09bd6c08-8d0e-4f9f-9a87-bd3e3c4ed40c" />
+<img width="1160" height="354" alt="image" src="https://github.com/user-attachments/assets/3b4e4459-b054-456a-bbcc-0dd6fe680b37" />
 
 
 
